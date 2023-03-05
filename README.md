@@ -1,5 +1,5 @@
 # Large-Scale-Fading-Test
-Not 100% sure, contact if you have any comment.
+Not 100% sure, contact me if you have any comment.
 ## Fading and Noise Unit?
 School lessons won't tell you the noise unit, it only says "SNR is equal to Eb over N0 if you set Eb=1", 
 however some paper uses the fading like dBm/Hz or noise spectrum density that you never heard in class.
